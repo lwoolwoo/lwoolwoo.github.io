@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Louis' studying record"
+title                    : "Data Studying Record"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Louis Woo"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Louis Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Major : Computer Science and Philosophy | Minor : Statistics"
+  bio              : "Move along !"
   location         : "Winnipeg, Manitoba, Canada"
   email            :
   links:
