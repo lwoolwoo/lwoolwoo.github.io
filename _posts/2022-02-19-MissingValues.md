@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "Practice #4 MissingValues"
+---
+
 ## 1. Read a excel file : read_excel()
 
 
