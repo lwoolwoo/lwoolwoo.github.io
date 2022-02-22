@@ -1,5 +1,3 @@
-
-
 ---
 layout: single
 title:  "Practice #7 PivotTable 2"
