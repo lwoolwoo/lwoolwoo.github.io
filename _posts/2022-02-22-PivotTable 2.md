@@ -1,3 +1,12 @@
+
+
+---
+layout: single
+title:  "Practice #7 PivotTable 2"
+---
+
+
+
 ## 1. Read a excel file : read_excel()
 
 
