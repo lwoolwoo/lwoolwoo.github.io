@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "Practice #9 Sort_values"
+---
+
+
+
 ```python
 import pandas as pd 
 ```
