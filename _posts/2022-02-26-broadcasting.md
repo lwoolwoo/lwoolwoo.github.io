@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Practice # 10 broadcasting"
+---
+
+
 ```python
 import pandas as pd
 ```
