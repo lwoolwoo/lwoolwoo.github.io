@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Practice #10 Boolean indexing"
+title:  "Practice #11 Boolean indexing"
 ---
 
 
