@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Practice #10 Boolean indexing"
+---
+
+
 ```python
 import pandas as pd
 ```
